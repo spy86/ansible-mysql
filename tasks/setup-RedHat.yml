@@ -10,4 +10,4 @@
   yum:
     name: MySQL-python
     state: present
-    enablerepo: "{{ mysql_enablerepo | default(omit, true) }}"y
+    enablerepo: "{{ mysql_enablerepo | default(omit, true) }}"
