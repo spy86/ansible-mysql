@@ -31,13 +31,3 @@ Including an example of how to use your role (for instance, with variables passe
       roles:
         - role: ansible-mysql
           become: yes
-
-License
--------
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-Author Information
-------------------
-
-Maciej Michalski
